@@ -6,5 +6,5 @@
 
 - 📫 Learn more about me: [camillepettineo.fr](https://camillepettineo.fr/)
 
-- 🌍 Langues parlées : French | English
+- 🌍 Spoken languages : French | English
 
