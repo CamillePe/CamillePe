@@ -4,5 +4,5 @@
 
 - 🌱 In the future I wish to be able to create projects combining journalism and Artificial Intelligence.
 
-- 📫 Learn more about me: [camillepettineo.fr](camillepettineo.fr)
+- 📫 Learn more about me: [camillepettineo.fr](https://camillepettineo.fr/)
 
