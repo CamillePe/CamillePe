@@ -6,7 +6,7 @@
 
 - 📫 Pour en savoir plus sur moi : [camillepettineo.fr](https://camillepettineo.fr/)
 
-- 🌍 Langues parlées : French | English
+- 🌍 Langues parlées : Français | Anglais
 
 
 ### Hi there 👋
